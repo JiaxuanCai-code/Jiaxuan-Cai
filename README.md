@@ -21,15 +21,15 @@ First and foremost, to demonstrate the relationship between these variables, we 
 
 Figure 1 Pearson Correlation Heat Map
 
-![IMG_256](images/f1.png)
+![IMG_256](/images/f1.png)
 
 From the heat map, it’s easy to tell from the colors that -0.2 to 0.2 means little correlation, 0.2 to 0.4 means positive median correlation and 0.4 to 1 means positive strong relationship. In this case, Curricular units in 1<sup>st</sup> and 2<sup>nd</sup> term showed positive relationship with student academic success. In the plot, it’s easy to tell that there are too many dimensions in the dataset, so it’s important to use dimension reducing techniques such as PCA.
 
 Figure 2 Density Plot
 
-![](images/f2.1.png)
+![](/images/f2.1.png)
 
-![](images/f2.2.png)
+![](/images/f2.2.png)
 
 Secondly, we employed density plot to check the distribution and skewness of our variables. There are several findings. For example, most of our data are single Portuguese. What’s more, most of our data are first choice. Most of our students’ previous education is around 130, which looks like normal distribution.Most of our students are daytime participants.More findings and plots are recorded in the jupyter notebook.
 
